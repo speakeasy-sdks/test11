@@ -1,18 +1,18 @@
 lockVersion: 2.0.0
 id: 57e12120-c0fa-4265-a070-90bab99819e6
 management:
-  docChecksum: 2516596125ef223fbbef6c434d22eaac
+  docChecksum: 1bdb7a6f8bf3995d4b40475228403253
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.225.2
-  releaseVersion: 0.5.1
-  configChecksum: 22bc117ad2bb7da946b0c20bb4b90859
+  generationVersion: 2.230.3
+  releaseVersion: 0.5.2
+  configChecksum: 691f02e12d13bc219d4ef3386e7193ba
   repoURL: https://github.com/speakeasy-sdks/test11.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/test11
 features:
   typescript:
-    core: 3.4.1
+    core: 3.4.5
     globalServerURLs: 2.82.1
 generatedFiles:
   - src/sdk/pets.ts
